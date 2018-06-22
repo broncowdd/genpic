@@ -2,6 +2,7 @@
 Un script pour générer des images aléatoires / A script to randomly generate pictures
 
 home page: http://warriordudimanche.net/article838/genpic-un-generateur-d-images-aleatoires-ou-pas
+
 demo: http://genpic.warriordudimanche.net/
 
 Some examples: 
